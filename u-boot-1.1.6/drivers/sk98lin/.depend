@@ -1,0 +1,80 @@
+skge.o: skge.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skaddr.o: skaddr.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgehwt.o: skgehwt.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgeinit.o: skgeinit.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgepnmi.o: skgepnmi.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgesirq.o: skgesirq.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+ski2c.o: ski2c.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+sklm80.o: sklm80.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skqueue.o: skqueue.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skrlmt.o: skrlmt.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+sktimer.o: sktimer.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skvpd.o: skvpd.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skxmac2.o: skxmac2.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skcsum.o: skcsum.c /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+uboot_skb.o: uboot_skb.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+uboot_drv.o: uboot_drv.c \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/common.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/configs/100ask24x0.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/cmd_confdefs.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/bitops.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/bitops.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/types.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/config.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/posix_types.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/stddef.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/posix_types.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/types.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/linux/string.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/string.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/ptrace.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/proc/ptrace.h \
+  /opt/arm-linux-gcc-4.3.2/4.3.2/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.2/include/stdarg.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/part.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/ide.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/flash.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/image.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/u-boot.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/global_data.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/mach-types.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/setup.h \
+  /home/toutes/work/u-boot/u-boot-1.1.6/include/asm/u-boot-arm.h
